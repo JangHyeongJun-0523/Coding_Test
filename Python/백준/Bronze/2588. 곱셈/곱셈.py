@@ -1,0 +1,6 @@
+A = input()
+B = input()
+print(f"{int(A)*int(B[2])}")
+print(f"{int(A)*int(B[1])}")
+print(f"{int(A)*int(B[0])}")
+print(f"{int(A)*int(B)}")
